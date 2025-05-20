@@ -1,0 +1,10 @@
+
+default_device: "cuda"
+
+# IQV
+quality_assessment:
+  FQA_MIN_LANDMARK_VISIBILITY: 0.5
+
+thresholds:
+  max_acceptable_score: 0.5
+
